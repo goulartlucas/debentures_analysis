@@ -2,7 +2,8 @@
 Este projeto foi desenvolvido para facilitar a análise e visualização de dados de debêntures do mercado secundário brasileiro. Ele inclui scripts em Python para processamento dos dados, um banco de dados SQLite para consultas SQL e um relatório visual criado no Power BI.
 
 ## Estrutura do Projeto
-debentures_analysis/
+
+''' debentures_analysis/
 ├── data/
 │   └── consolidated_debentures.csv      # Dataset consolidado de debêntures
 ├── images/
@@ -13,7 +14,7 @@ debentures_analysis/
 │   └── main_script.py                   # Script principal para processamento de dados
 ├── README.md                            # Documentação do projeto
 ├── requirements.txt                     # Dependências do Python
-└── debentures.db                        # Banco de dados SQLite com dados das debêntures
+└── debentures.db                        # Banco de dados SQLite com dados das debêntures '''
 
 ## Instruções de Configuração
 1. Criação do Ambiente Virtual: Crie e ative um ambiente virtual com os seguintes comandos:
