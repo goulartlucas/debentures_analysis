@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para facilitar a análise e visualização de dado
 ## Relatório Power BI
 O arquivo debentures_analysis_report.pbix no diretório power_bi contém um relatório interativo com visualizações das métricas principais das debêntures. Este relatório inclui gráficos de linha, cartões de métrica e filtros de segmentação.
 
-O relatório do Power BI está disponível na pasta **power_bi/debentures_analysis_report.pbix**, Para visualizar o relatório:
+O relatório do Power BI está disponível na pasta **power_bi/debentures_analysis_report.pbix**, para visualizar o relatório:
 - Clique em View raw ou baixe diretamente o arquivo .pbix da pasta power_bi.
 - Abra o Power BI Desktop.
 - No Power BI Desktop, vá para Arquivo > Abrir e selecione o arquivo .pbix baixado.
