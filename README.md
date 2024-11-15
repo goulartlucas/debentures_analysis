@@ -3,18 +3,19 @@ Este projeto foi desenvolvido para facilitar a análise e visualização de dado
 
 ## Estrutura do Projeto
 
-''' debentures_analysis/
-├── data/
-│   └── consolidated_debentures.csv      # Dataset consolidado de debêntures
-├── images/
-│   └── taxa_indicativa_media_DI+.png    # Gráfico da taxa indicativa média
-├── power_bi/
-│   └── debentures_analysis_report.pbix  # Relatório do Power BI
-├── scripts/
-│   └── main_script.py                   # Script principal para processamento de dados
-├── README.md                            # Documentação do projeto
-├── requirements.txt                     # Dependências do Python
-└── debentures.db                        # Banco de dados SQLite com dados das debêntures '''
+- **debentures_analysis/**
+  - **data/**
+    - `consolidated_debentures.csv` — Dataset consolidado de debêntures
+  - **images/**
+    - `taxa_indicativa_media_DI+.png` — Gráfico da taxa indicativa média
+  - **power_bi/**
+    - `debentures_analysis_report.pbix` — Relatório do Power BI
+  - **scripts/**
+    - `main_script.py` — Script principal para processamento de dados
+  - `README.md` — Documentação do projeto
+  - `requirements.txt` — Dependências do Python
+  - `debentures.db` — Banco de dados SQLite com dados das debêntures
+
 
 ## Instruções de Configuração
 1. Criação do Ambiente Virtual: Crie e ative um ambiente virtual com os seguintes comandos:
