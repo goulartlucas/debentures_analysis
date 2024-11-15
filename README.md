@@ -28,12 +28,13 @@ Este projeto foi desenvolvido para atender ao desafio de análise de dados de de
    python scripts/main_script.py
 
 ## Relatório Power BI
-O arquivo debentures_analysis_report.pbix no diretório power_bi contém um relatório interativo com visualizações das métricas principais das debêntures. Este relatório inclui gráficos de linha, cartões de métrica e filtros de segmentação.
 
-O relatório do Power BI está disponível na pasta **power_bi/debentures_analysis_report.pbix**, para visualizar o relatório:
-- Clique em View raw ou baixe diretamente o arquivo .pbix da pasta power_bi.
-- Abra o Power BI Desktop.
-- No Power BI Desktop, vá para Arquivo > Abrir e selecione o arquivo .pbix baixado.
+O relatório de análise de debêntures está disponível para visualização online no Power BI Service. Acesse o link abaixo para visualizar:
+
+[Visualizar Relatório Power BI](https://app.powerbi.com/groups/me/reports/ddbc5c3f-af14-42b0-8008-85680d752d2a/360a73b73fd37848b1b2?experience=power-bi)
+
+> **Nota:** É necessário ter uma conta no Power BI Service para acessar o relatório.
+
 
 ## Consultas SQL
 Dentro do banco de dados debentures.db, algumas consultas SQL foram implementadas para responder a perguntas específicas, como:
