@@ -1,5 +1,5 @@
 # Debentures Analysis
-Este projeto foi desenvolvido para facilitar a análise e visualização de dados de debêntures do mercado secundário brasileiro. Ele inclui scripts em Python para processamento dos dados, um banco de dados SQLite para consultas SQL e um relatório visual criado no Power BI.
+Este projeto foi desenvolvido para atender ao desafio de análise de dados de debêntures do mercado secundário brasileiro, com aprimoramentos que agregam valor adicional. O projeto inclui scripts em Python para o processamento e consolidação de dados em um formato compatível com o Power BI. Além disso, foi criado um relatório completo no Power BI, proporcionando visualizações que facilitam a análise. Para enriquecer ainda mais o projeto e simplificar as consultas SQL sugeridas, foi implementado um banco de dados SQLite, permitindo consultas rápidas e dinâmicas. Essa estrutura visa tornar a análise de dados mais eficiente e acessível para a equipe de Research, indo além dos requisitos básicos do desafio.
 
 ## Estrutura do Projeto
 
