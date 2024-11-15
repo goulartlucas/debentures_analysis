@@ -9,12 +9,13 @@ Este projeto foi desenvolvido para atender ao desafio de análise de dados de de
   - **images/**
     - `taxa_indicativa_media_DI+.png` — Gráfico da taxa indicativa média
   - **power_bi/**
-    - `debentures_analysis_report.pbix` — Relatório do Power BI
+    - Relatório do Power BI disponível no [Power BI Service](https://app.powerbi.com/groups/me/reports/ddbc5c3f-af14-42b0-8008-85680d752d2a/360a73b73fd37848b1b2?experience=power-bi)
   - **scripts/**
     - `main_script.py` — Script principal para processamento de dados
   - `README.md` — Documentação do projeto
   - `requirements.txt` — Dependências do Python
   - `debentures.db` — Banco de dados SQLite com dados das debêntures
+
 
 
 ## Instruções de Configuração
